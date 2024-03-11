@@ -39,7 +39,8 @@ pip install pygame
 ```
 
 Screenshots:
-![Screenshot](path-to-your-screenshot-image)
+
+![Screenshot](img/img1.png)
 
 Contributing:
 
