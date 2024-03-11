@@ -40,7 +40,7 @@ pip install pygame
 
 Screenshots:
 
-<img src="" alt="Screenshot" width="800" height="600">
+<img src="img/img1.png" alt="Screenshot" width="400" height="400">
 
 
 Contributing:
