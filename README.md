@@ -40,7 +40,13 @@ pip install pygame
 
 Screenshots:
 
-<img src="img/img1.png" alt="Screenshot" width="400" height="400">
+<img src="img/img1.png" alt="Image of sudoku board" width="400" height="400">
+
+
+<img src="img/img2.png" alt="image when user is playing sudoku" width="400" height="400">
+
+
+<img src="img/img3.png" alt="Image while sudoku game is being solved" width="400" height="400">
 
 
 Contributing:
